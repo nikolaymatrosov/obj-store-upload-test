@@ -28,7 +28,7 @@ jobs:
           root: ./src
           prefix: static
           include: | 
-            *.js
-            package.json
+            app
+            demo.txt
           exclude: | 
             **/*.ts
