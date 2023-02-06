@@ -1,0 +1,12 @@
+{
+    "version": "2.0.2",
+    "compilerOptions": {
+      "lib": ["es5", "es6", "es2019"],
+      "target": "es2019",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true
+    },
+    "include": ["./src"]
+  }
