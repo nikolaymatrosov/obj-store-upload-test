@@ -32,4 +32,4 @@ jobs:
             demo.txt
           exclude: | 
             **/*.ts
-          clear: true
+          clear: 'true'
